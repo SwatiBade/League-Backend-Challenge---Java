@@ -1,1 +1,1 @@
-# League-Backend-Challenge---Java
+# League-Backend-Challenge - Java
